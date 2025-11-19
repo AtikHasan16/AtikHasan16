@@ -6,8 +6,9 @@
  </a>
 </p>
 
+---
 
-## 🌐 Socials
+### 🌐 Socials
 <p align="center">
   <a href="https://facebook.com/https://www.facebook.com/MDAtikhasannaeem">
     <img
@@ -26,7 +27,8 @@
   </a>
 </p>
 
-# 💻 Tech Stack
+
+### 💻 Tech Stack
 <p align="center">
   <a href="">
     <img
@@ -35,8 +37,9 @@
   </a>
 </p>
 
+---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <a href="">
    <img
@@ -46,7 +49,11 @@
       src="https://github-readme-stats.vercel.app/api?username=AtikHasan16&theme=blueberry&show_icons=true&hide_border=false&count_private=true"
     />
   </a>
-  <br>
+</p>
+
+### 📊 Most Used Languages
+
+<p align="center">
   <a href="">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtikHasan16&theme=blueberry&show_icons=true&hide_border=false&layout=compact"
@@ -55,8 +62,7 @@
 </p>
 
 
-
-
+---
 
 
 ### ✍️ Random Dev Quote
@@ -68,6 +74,7 @@
   </a>
 </p>
 
+---
 
 ### 🔝Top Projects
 <p align="center">
@@ -85,7 +92,7 @@
   </a>
 </p>
 
-
+---
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
