@@ -8,6 +8,25 @@
 
 ---
 
+### About Me
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=6000&pause=300&background=FFFFFF00&center=true&vCenter=true&width=1200&height=200&lines=May+be+I+am+not+a+good+student+;but+you+always+find+me+in+a+group+of+people+;who+ask+questions.)](https://git.io/typing-svg)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atikhasan16&label=Profile%20views&color=0e75b6&style=flat" alt="atikhasan16" /> </p>
+
+- 🔭 I’m currently working on a **Courier delivery site**
+- 🌱 I’m currently learning **python programming languages**
+- 🎩 And exploring networking and information security
+
+
+---
+
+<h2 align="center">Connect with me</h2>
+
+
+
 ### 🌐 Socials
 <p align="center">
   <a href="https://facebook.com/https://www.facebook.com/MDAtikhasannaeem">
