@@ -1,7 +1,10 @@
 ![github banner](https://github.com/AtikHasan16/GitHub-banner/blob/main/git%20hub%20banner.png)
 
-# 💫 About Me
- <p align='center'>Currently doing HSC in a Govt. Technical College in Bangladesh, passionate about frontend web development, very much curious about networking and information security, and volunteering with VBD in my district as a committee member. </p> 
+<p align="center">
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=4000&pause=500&center=true&vCenter=true&width=556&height=70&lines=VOLUNTEER;MERN+Enthusiast;Exploring+Modern+Tech"/>
+ </a>
+</p>
 
 
 ## 🌐 Socials
