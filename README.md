@@ -36,6 +36,9 @@
 # 📊 GitHub Stats
 <p align="center">
   <a href="">
+   <img
+  src= "https://streak-stats.demolab.com/?user=AtikHasan16&theme=blueberry-duo"
+    >
     <img
       src="https://github-readme-stats.vercel.app/api?username=AtikHasan16&theme=blueberry&show_icons=true&hide_border=false&count_private=true"
     />
