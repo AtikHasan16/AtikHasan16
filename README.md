@@ -51,7 +51,7 @@
 <p align="center">
   <a href="">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,cloudflare,firebase,vercel,netlify,reactrouter,reactquery,react,vite,expressjs,nodejs,tailwindcss,daisyui,mongodb,canva,figma,framer,git,github,steam,discord,postman&perline=10"
+      src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,cloudflare,firebase,vercel,netlify,reactrouter,reactquery,react,vite,expressjs,nextjs,nodejs,tailwindcss,daisyui,mongodb,canva,figma,framer,git,github,steam,discord,postman&perline=10"
     />
   </a>
 </p>
