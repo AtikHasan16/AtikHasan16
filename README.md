@@ -16,9 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atikhasan16&label=Profile%20views&color=0e75b6&style=flat" alt="atikhasan16" /> </p>
 
-- 🔭 I’m currently working on a **Courier delivery site**
-- 🌱 I’m currently learning **python programming languages**
-- 🎩 And exploring networking and information security
+- 🔭 I’m currently working on a **loan service site**
 
 
 ---
