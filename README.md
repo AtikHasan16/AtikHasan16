@@ -105,6 +105,10 @@
     <img width="206" height="64" alt="image" src="https://github.com/user-attachments/assets/719fb8a3-5dc7-4788-be77-a4d5be1ef73e" />
 
   </a>
+  <a  href="https://loanlink-app.netlify.app/" target="_blank">
+    <img width="214" height="71" alt="image" src="https://github.com/user-attachments/assets/f72cdd55-2733-4e11-a772-a2ab2686c003" />
+
+  </a>
 </p>
 
 ---
