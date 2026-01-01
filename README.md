@@ -21,10 +21,6 @@
 
 ---
 
-<h2 align="center">Connect with me</h2>
-
-
-
 ### 🌐 Socials
 <p align="center">
   <a href="https://facebook.com/https://www.facebook.com/MDAtikhasannaeem">
@@ -89,7 +85,7 @@
   </a>
 </p>
 
----
+
 
 ### 🔝Top Projects
 <p align="center">
@@ -111,7 +107,7 @@
   </a>
 </p>
 
----
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
