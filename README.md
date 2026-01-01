@@ -60,22 +60,20 @@
 <p align="center">
   <a href="">
    <img
-  src= "https://streak-stats.demolab.com/?user=AtikHasan16&theme=blueberry-duo"
-    >
+  src= "https://streak-stats.demolab.com?user=AtikHasan16&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    > 
     <img
-      src="https://github-readme-stats.vercel.app/api?username=AtikHasan16&theme=blueberry&show_icons=true&hide_border=false&count_private=true"
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/AtikHasan16?cardType=octocat&theme=github-dark&fontFamily=&preferLogin=false&Background=DD000000&Border=DD000000&Ring=39D353&Text=FFFFFF&Title=39D353"
     />
   </a>
 </p>
 
-### 📊 Most Used Languages
 
 <p align="center">
-  <a href="">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtikHasan16&theme=blueberry&show_icons=true&hide_border=false&layout=compact"
-    />
-  </a>
+  <a href="https://github.com/AtikHasan16">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtikHasan16&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph">
+
+</a>
 </p>
 
 
