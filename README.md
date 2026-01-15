@@ -52,6 +52,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=AtikHasan16&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
+
 <!-- Github contribution graph-->
 
 <p align="center">
