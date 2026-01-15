@@ -52,18 +52,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/AtikHasan16">
-   <img
-  src= "https://streak-stats.demolab.com?user=AtikHasan16&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    > 
-    <img
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/AtikHasan16?cardType=octocat&theme=github-dark&fontFamily=&preferLogin=false&Background=DD000000&Border=DD000000&Ring=39D353&Text=FFFFFF&Title=39D353"
-    />
-  </a>
-</p>
-
 <!-- Github contribution graph-->
 
 <p align="center">
